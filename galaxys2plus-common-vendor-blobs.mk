@@ -116,7 +116,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/galaxys2plus-common/proprietary/vendor/lib/hw/gralloc.capri.so:system/vendor/lib/hw/gralloc.capri.so \
     vendor/samsung/galaxys2plus-common/proprietary/vendor/lib/hw/hwcomposer.capri.so:system/vendor/lib/hw/hwcomposer.capri.so \
     vendor/samsung/galaxys2plus-common/proprietary/vendor/lib/hw/lights.capri.so:system/vendor/lib/hw/lights.capri.so \
-    vendor/samsung/galaxys2plus-common/proprietary/vendor/lib/libdrmmtkutil.so:system/vendor/lib/libdrmmtkutil.so \
     vendor/samsung/galaxys2plus-common/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
     vendor/samsung/galaxys2plus-common/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/samsung/galaxys2plus-common/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
